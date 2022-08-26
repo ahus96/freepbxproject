@@ -37,6 +37,7 @@ Database = asteriskcdrdb
 Port = 3306
 Socket = /var/run/mysqld/mysqld.sock
 EOF'
+ 
 ![image](https://user-images.githubusercontent.com/36034401/186896901-49741e88-b121-443c-adc7-8a8a46548fbf.png)
 
 # 5.Setting up FreePBX
