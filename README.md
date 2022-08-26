@@ -65,7 +65,8 @@ apt-get install postfix -y (postfix)
 Once this was finished running I needed to go to the configuration file of the postfix to finish the config.
   
 'nano /etc/postfix/main.cf'
- ![image](https://user-images.githubusercontent.com/36034401/186897052-ffc61b31-cb55-461d-961c-20acd8d49b16.png)
+
+![image](https://user-images.githubusercontent.com/36034401/186897052-ffc61b31-cb55-461d-961c-20acd8d49b16.png)
 
   
 This opened a file, and I was required to edit this file with the following.
